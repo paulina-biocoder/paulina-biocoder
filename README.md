@@ -5,7 +5,7 @@
 I'm Paulina and I'm currently studying bioinformatics. I am interested in using programming and machine learning in the medical field. I am looking for an internship in bioinformatics.
 
 
-You can reach me on LinkedIn
+You can reach me via LinkedIn
 <p align='center'>
   <a href='https://www.linkedin.com/in/paulina-kusztelak-ab5074239/'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn'></a>
 </a>
