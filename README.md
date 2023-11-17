@@ -7,7 +7,7 @@
 I'm Paulina and I'm studying bioinformatics. I'm interested in machine learning and broad areas in bioinformatics. I'm looking for a bioinformatics internship.
 
 
-You can reach me via LinkedIn
+You can reach me via
 <p align='center'>
   <a href='https://www.linkedin.com/in/paulina-kusztelak-ab5074239/'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn'></a>
 </a>
