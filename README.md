@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src=’https://github.com/paulina-biocoder/paulina-biocoder/blob/main/paulina-biocoderlogo.png’ alt='paulina-biocoder logo'>
+  <img src=’https://github.com/paulina-biocoder/paulina-biocoder/blob/main/paulina-biocoderlogo.svg’ alt='paulina-biocoder logo'>
 </p>
 
 I'm Paulina and I'm currently studying bioinformatics. I am interested in using programming and machine learning in the medical field. I am looking for an internship in bioinformatics.
