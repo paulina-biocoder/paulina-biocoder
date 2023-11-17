@@ -1,6 +1,6 @@
+![paulina-biocoderlogo](https://github.com/paulina-biocoder/paulina-biocoder/assets/117985065/c2ca1208-63b9-427c-8d2b-801ea89951b2)
+
 <p align='center'>
-  <img src=’https://github.com/paulina-biocoder/paulina-biocoder/blob/main/paulina-biocoderlogo.svg’ alt='paulina-biocoder logo'>
-</p>
 
 I'm Paulina and I'm currently studying bioinformatics. I am interested in using programming and machine learning in the medical field. I am looking for an internship in bioinformatics.
 
@@ -23,3 +23,4 @@ You can reach me on LinkedIn
     <img src ='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white' alt = ‘Django’>
 <img src ='https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white' alt = ‘Anaconda’>
 </p>
+
