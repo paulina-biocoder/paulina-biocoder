@@ -2,7 +2,9 @@
 
 <p align='center'>
 
-I'm Paulina and I'm currently studying bioinformatics. I am interested in using programming and machine learning in the medical field. I am looking for an internship in bioinformatics.
+### Hi there 👋
+
+I'm Paulina and I'm studying bioinformatics. I'm interested in machine learning and broad areas in bioinformatics. I'm looking for a bioinformatics internship.
 
 
 You can reach me via LinkedIn
