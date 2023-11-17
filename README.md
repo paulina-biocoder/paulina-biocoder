@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I'm Paulina and I'm studying bioinformatics. I'm interested in machine learning and broad areas in bioinformatics. I'm looking for a bioinformatics internship.
+I'm Paulina, bioinformatics student. I'm interested in machine learning and broad areas in bioinformatics. Looking for a bioinformatics internship.
 
 
 You can reach me via
