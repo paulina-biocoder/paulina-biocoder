@@ -1,6 +1,6 @@
 ### Hi there, I'm Paulina 👋
 
-<img align = 'right' alt='GIF' src='https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif' width='500' height='320'/>
+<img align = 'right' alt='GIF' src='https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif' width='400' height='320'/>
 
 <p align='left'>
   
