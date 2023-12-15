@@ -1,5 +1,3 @@
-![paulina-biocoderlogo](https://github.com/paulina-biocoder/paulina-biocoder/assets/117985065/c2ca1208-63b9-427c-8d2b-801ea89951b2)
-
 <p align='center'>
 
 ### Hi there 👋
