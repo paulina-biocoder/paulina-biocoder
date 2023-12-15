@@ -2,7 +2,7 @@
 
 <img align = 'right' alt='GIF' src='https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif'/>
 
-<p align='center'>
+<p align='right'>
   
 * 💻 I'm bioinformatics student interested in machine learning and broad areas in bioinformatics. 
 * 🧐 Looking for a bioinformatics internship.
