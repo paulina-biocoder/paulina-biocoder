@@ -2,14 +2,14 @@
 
 <img align = 'right' alt='GIF' src='https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif'/>
 
-<p align='right'>
+<p align='left'>
   
 * 💻 I'm bioinformatics student interested in machine learning and broad areas in bioinformatics. 
 * 🧐 Looking for a bioinformatics internship.
 
 
 You can reach me via
-<p align='center'>
+<p align='left'>
   <a href='https://www.linkedin.com/in/paulina-kusztelak-ab5074239/'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn'></a>
 </a>
 </p>
@@ -17,7 +17,7 @@ You can reach me via
 </p>
 
 <h3 align>I’ve worked with</h3>
-<p align='center' > 
+<p align='left' > 
   <img src ='https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white' alt = ‘R’>
   <img src ='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' alt = ‘Python’>
   <img src ='https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white' alt = ‘Numpy’>
