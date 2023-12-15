@@ -4,7 +4,8 @@
 
 <p align='left'>
   
-* 💻 I'm bioinformatics student interested in machine learning and broad areas in bioinformatics. 
+* 💻 I'm bioinformatics student
+* 💜 Interested in machine learning and broad areas in bioinformatics. 
 * 🧐 Looking for a bioinformatics internship.
 
 
