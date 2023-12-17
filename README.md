@@ -4,12 +4,12 @@
 
 <p align='left'>
   
-* 💻 I'm bioinformatics student
-* 🔭 I’m currently working on expand my programming skills
+* 💻 I'm bioinformatics student.
+* 🔭 I’m currently working on expand my programming skills.
 * 💜 Interested in machine learning and broad areas in bioinformatics. 
 * 🧐 Looking for a bioinformatics internship.
-* 💬 Ask me about anything
-* ⚡ Fun fact...I'm crazy
+* 💬 Ask me about anything.
+* ⚡ Fun fact...I'm crazy.
 
 
 You can reach me via
