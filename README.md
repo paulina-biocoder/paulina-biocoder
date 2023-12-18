@@ -20,6 +20,8 @@ You can reach me via
 
 </p>
 
+<img align = 'left' alt='Octocat' src='https://github.com/paulina-biocoder/paulina-biocoder/blob/main/octocat-1702900223576.png' width='200' height='250'/>
+
 <h3 align>I’ve worked with</h3>
 <p align='left' > 
   <img src ='https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white' alt = ‘R’>
@@ -35,4 +37,4 @@ You can reach me via
   <img src ='https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white' alt = ‘RubyonRails’>
 </p>
 
-<img align = 'left' alt='Octocat' src='https://github.com/paulina-biocoder/paulina-biocoder/blob/main/octocat-1702900223576.png' width='200' height='250'/>
+
