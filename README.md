@@ -34,3 +34,5 @@ You can reach me via
   <img src ='https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white' alt = ‘Jupyter’>
   <img src ='https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white' alt = ‘RubyonRails’>
 </p>
+
+<img align = 'right' alt='Octocat' src='file:///C:/Users/KUP7TW/Desktop/octocat-1702900223576.png' width='500' height='320'/>
