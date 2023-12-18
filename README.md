@@ -33,6 +33,5 @@ You can reach me via
   <img src ='https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white' alt = ‘Anaconda’>
   <img src ='https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white' alt = ‘Jupyter’>
   <img src ='https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white' alt = ‘RubyonRails’>
-  <img src ='https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white' alt = ‘SAP’>
 </p>
 
