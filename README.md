@@ -35,4 +35,4 @@ You can reach me via
   <img src ='https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white' alt = ‘RubyonRails’>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![paulina-biocoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulina-biocoder&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
