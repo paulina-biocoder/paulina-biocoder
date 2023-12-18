@@ -20,7 +20,7 @@ You can reach me via
 
 </p>
 
-<img align = 'left' alt='Octocat' src='https://github.com/paulina-biocoder/paulina-biocoder/blob/main/octocat-1702900223576.png' width='200' height='250'/>
+<img align = 'left' alt='Octocat' src='https://github.com/paulina-biocoder/paulina-biocoder/blob/main/octocat-1702900223576.png' width='150' height='200'/>
 
 <h3 align>I’ve worked with</h3>
 <p align='left' > 
