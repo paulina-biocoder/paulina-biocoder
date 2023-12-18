@@ -20,7 +20,7 @@ You can reach me via
 
 </p>
 
-<img align = 'left' alt='Octocat-gif' src='https://github.com/paulina-biocoder/paulina-biocoder/blob/main/ezgif.com-animated-gif-maker.gif' width='150' height='200'/>
+<img align = 'left' alt='Octocat-gif' src='hhttps://github.com/paulina-biocoder/paulina-biocoder/blob/main/gif_octocat.gif' width='150' height='200'/>
 
 <h3 align>I’ve worked with</h3>
 <p align='left' > 
