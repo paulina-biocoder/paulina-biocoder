@@ -33,6 +33,7 @@
   <img src ='https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white' alt = ‘Pandas’>
   <img src ='https://img.shields.io/badge/Matplotlib-%23013243.svg?style=for-the-badge&logo=Matplotlib&logoColor=white' alt = ‘Matplotlib’>
   <img src ='https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white' alt = ‘Plotly’>
+   <img src ='https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white' alt = ‘Scipy’>
   <img src ='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white' alt = ‘Django’>
   <img src ='https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white' alt = ‘RubyonRails’>
   <img src ='https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white' alt = ‘Anaconda’>
