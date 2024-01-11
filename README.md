@@ -20,7 +20,7 @@ You can reach me via
 
 </p>
 
-<img align = 'left' alt='Octocat-gif' src='https://github.com/paulina-biocoder/paulina-biocoder/blob/main/gif_octocat.gif' width='150' height='200'/>
+<img align = 'left' alt='Octocat-gif' src='https://github.com/paulina-biocoder/paulina-biocoder/blob/main/gif_octocat.gif' width='150' height='250'/>
 
 ###  ✨ My Tech Stack:
 
