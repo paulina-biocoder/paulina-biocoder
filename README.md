@@ -31,7 +31,7 @@
   <img src ='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' alt = ‘MySQL’>
   <img src ='https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white' alt = ‘Numpy’>
   <img src ='https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white' alt = ‘Pandas’>
-  <img src ='https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black' alt = ‘Matplotlib’>
+  <img src ='https://img.shields.io/badge/Matplotlib-%23013243.svg?style=for-the-badge&logo=Matplotlib&logoColor=black' alt = ‘Matplotlib’>
   <img src ='https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white' alt = ‘Plotly’>
   <img src ='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white' alt = ‘Django’>
   <img src ='https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white' alt = ‘RubyonRails’>
