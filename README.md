@@ -22,7 +22,7 @@ You can reach me via
 
 <img align = 'left' alt='Octocat-gif' src='https://github.com/paulina-biocoder/paulina-biocoder/blob/main/gif_octocat.gif' width='150' height='200'/>
 
-### Tech Stack I’ve worked with 💫
+### My tech stack ✨
 
 <p align='left' > 
   <img src ='https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white' alt = ‘R’>
