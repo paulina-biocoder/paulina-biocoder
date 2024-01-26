@@ -15,6 +15,7 @@
 ### 👀 You can reach me via: 
 <p align='left'>
   <a href='https://www.linkedin.com/in/paulina-kusztelak-ab5074239/'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn'></a>
+  <a href='https://linktr.ee/paulina_biocoder'><img src='https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white' alt='Linktree'></a>
 </p>
 
 </p>
