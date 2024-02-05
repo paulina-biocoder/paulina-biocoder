@@ -7,7 +7,6 @@
 * 💻 a bioinformatics student.
 * 🔭 currently working on expand my programming skills.
 * 💜 interested in machine learning and broad areas in bioinformatics. 
-* 🧐 looking for a bioinformatics internship.
 * 💬 Ask me about anything.
 * ⚡ Fun fact...I'm crazy.
 
