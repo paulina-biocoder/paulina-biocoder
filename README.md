@@ -31,6 +31,7 @@
   <img src ='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' alt = ‘Python’>
   <img src ='https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white' alt = ‘Ruby’>
   <img src ='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' alt = ‘MySQL’>
+  <img src = 'https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white' alt = 'SQLite'>
   <img src ='https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white' alt = 'scikitlearn'>
   <img src ='https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white' alt = ‘Numpy’>
   <img src ='https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white' alt = ‘Pandas’>
@@ -38,7 +39,9 @@
   <img src ='https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white' alt = ‘Plotly’>
    <img src ='https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white' alt = ‘Scipy’>
   <img src ='https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white' alt = ‘Django’>
-  <img src='https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white' alt = 'Dash'>
+  <img src = 'https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white' alt = 'Dash'>
+  <img src = 'https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white' alt = 'Flask'>
+  
   <img src ='https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white' alt = ‘RubyonRails’>
   <img src ='https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white' alt = ‘Anaconda’>
   <img src ='https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white' alt = ‘Jupyter’>
