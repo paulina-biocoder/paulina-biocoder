@@ -11,7 +11,7 @@
 * 🔭 currently working on expand my programming skills.
 * 💜 interested in machine learning and broad areas in bioinformatics. 
 * 💬 Ask me about anything.
-* ⚡ Fun fact...I'm crazy.
+* ⚡ Fun fact...I'm a dancer!
 
 
 ### 👀 You can reach me via: 
